@@ -1,0 +1,42 @@
+proxies:
+- type: "*"
+  server: "***.***.***.***"
+  port: "*****"
+  username: "*****"
+  password: "*****"
+  name: 🌬️ Cats 1
+
+- type: "*"
+  server: "***.***.***.***"
+  port: "*****"
+  username: "*****"
+  password: "*****"
+  name: 🌬️ Cats 2
+
+- type: "*"
+  server: "***.***.***.***"
+  port: "*****"
+  username: "*****"
+  password: "*****"
+  name: 🌬️ Cats 3
+
+- type: "*"
+  server: "***.***.***.***"
+  port: "*****"
+  username: "*****"
+  password: "*****"
+  name: 🌬️ Cats 4
+
+- type: "*"
+  server: "***.***.***.***"
+  port: "*****"
+  username: "*****"
+  password: "*****"
+  name: 🌬️ Cats 5
+
+- type: "*"
+  server: "***.***.***.***"
+  port: "*****"
+  username: "*****"
+  password: "*****"
+  name: 🌬️ Cats 6
